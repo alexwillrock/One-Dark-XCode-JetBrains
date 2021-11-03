@@ -3,6 +3,12 @@
 Popular theme and dark theme with JetBrains fonts
 
 ## Setup
+
+### install JetBrains mono font
+[JetBrains mono font](https://www.jetbrains.com/ru-ru/lp/mono/)
+
+### Terminal
+
 ```sh
 mkdir ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 git clone https://github.com/alexwillrock/One-Dark-XCode-JetBrains
