@@ -12,7 +12,7 @@ Popular theme and dark theme with JetBrains fonts
 ```sh
 mkdir ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 git clone https://github.com/alexwillrock/One-Dark-XCode-JetBrains
-cp One-Dark-XCode-JetBrains/themes/* ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+cp One-Dark-XCode-JetBrains/* ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 rm -rf One-Dark-XCode-JetBrains/
 ```
 
